@@ -1,1 +1,1 @@
-# go-zond-metadata
+# go-qrl-metadata
