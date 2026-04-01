@@ -1,0 +1,8 @@
+# QRL testnet chain config
+# Must match staking-deposit-cli --chain-name testnet fork version
+PRESET_BASE: 'mainnet'
+CONFIG_NAME: 'testnet'
+GENESIS_FORK_VERSION: 0x20000089
+DEPOSIT_CHAIN_ID: 1337
+DEPOSIT_NETWORK_ID: 1337
+DEPOSIT_CONTRACT_ADDRESS: Q4242424242424242424242424242424242424242
